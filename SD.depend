@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585316687 source:c:\users\avram\desktop\sd\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+	<stdlib.h>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+

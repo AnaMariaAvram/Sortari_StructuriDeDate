@@ -1,0 +1,24 @@
+Testul numarul 1 are o lungime de 433 numere mai mici sau egale decat 1133
+BubbleSort a sortat corect numerele in 0.001
+CountSort a sortat corect numerele in 0
+Sortarea STL dureaza 0
+QuickSort a sortat corect numerele in 0
+MergeSort a sortat corect numerele in 0
+RadixSort a sortat corect numerele in 0
+
+Testul numarul 2 are o lungime de 233 numere mai mici sau egale decat 4404
+BubbleSort a sortat corect numerele in 0.001
+CountSort a sortat corect numerele in 0
+Sortarea STL dureaza 0
+QuickSort a sortat corect numerele in 0
+MergeSort a sortat corect numerele in 0
+RadixSort a sortat corect numerele in 0
+
+Testul numarul 3 are o lungime de 4344 numere mai mici sau egale decat 1404
+BubbleSort a sortat corect numerele in 0.087
+CountSort a sortat corect numerele in 0
+Sortarea STL dureaza 0.001
+QuickSort a sortat corect numerele in 0
+MergeSort a sortat corect numerele in 0.001
+RadixSort a sortat corect numerele in 0.001
+
