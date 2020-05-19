@@ -13,7 +13,7 @@ ofstream g("test.out");
 long long tmp[100000001];
 bool verifsort (long long A[], int Lungime)
 {
-    for (int i=1; i<=Lungime; i++)
+    for (int i=1; i<Lungime; i++)
         if ( A[i] > A[i+1] )
             return 0;
     return 1;
